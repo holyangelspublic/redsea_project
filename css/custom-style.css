@@ -356,8 +356,8 @@ footer .widget_nav_menu ul li a:hover {
 }
 
 .faq-question {
+  border-radius:10px;
   width: 100%;
-  background: none;
   border: none;
   outline: none;
   text-align: left;
@@ -367,7 +367,7 @@ footer .widget_nav_menu ul li a:hover {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 0;
+  padding: 10px 10px;
 }
 
 .faq-question .icon {
@@ -379,6 +379,7 @@ footer .widget_nav_menu ul li a:hover {
 .faq-answer {
   max-height: 0;
   overflow: hidden;
+  background-color: white;
   transition: max-height 0.4s ease, padding 0.3s ease;
   padding: 0 0;
 }
@@ -389,7 +390,7 @@ footer .widget_nav_menu ul li a:hover {
 
 .faq-item.active .faq-answer {
   max-height: 200px; /* enough for content */
-  padding: 10px 0;
+  padding: 10px 10px;
 }
 
 .faq-item.active .faq-question .icon {

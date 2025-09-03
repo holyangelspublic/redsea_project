@@ -73,7 +73,7 @@ body.seocrawler-boxed .seocrawler-body-wrapper{ overflow: hidden; border-radius:
 .seocrawler-page-title-wrap.seocrawler-style-custom .seocrawler-page-caption{ font-size: 16px; } 
 .seocrawler-page-title-wrap.seocrawler-style-custom .seocrawler-page-caption{ letter-spacing: 0px; } 
 .seocrawler-page-title-wrap .seocrawler-page-title-overlay{ opacity: 0; } 
-.seocrawler-page-title-wrap, body.single-product .seocrawler-header-background-transparent{ background-image: url(https://demo.goodlayers.com/seocrawler/wp-content/uploads/2017/06/page-title-background.jpg); } 
+.seocrawler-page-title-wrap, body.single-product .seocrawler-header-background-transparent{ background-image:url(../images/gcolour.jpg); } 
 .seocrawler-not-found-wrap .seocrawler-not-found-background{ opacity: 0.27; } 
 .seocrawler-blog-title-wrap.seocrawler-style-custom .seocrawler-blog-title-content{ padding-top: 93px; } 
 .seocrawler-blog-title-wrap.seocrawler-style-custom .seocrawler-blog-title-content{ padding-bottom: 87px; } 

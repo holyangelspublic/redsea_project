@@ -1,0 +1,109 @@
+.card-seo-service {
+  background: #fff;
+  width: 280px;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-seo-service:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+.icon-seo-service {
+  background: #eef6ff;
+  width: 70px;
+  height: 70px;
+  margin: 0 auto 15px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-seo-service img {
+  width: 40px;
+  height: 40px;
+}
+
+.title-seo-service {
+  font-size: 30px !important;
+  font-weight: 600;
+  color: #1e293b;
+  margin-bottom: 0% !important;
+}
+
+.subtitle-seo-service {
+  font-size: 20px;
+  font-weight: bold;
+  color: #475569;
+  margin-bottom: 0% !important;
+}
+
+.description-seo-service {
+  font-size: 14px;
+  color: #64748b;
+  text-align: left;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.button-seo-service {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #f21616;
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+  border-radius: 8px;
+  transition: background 0.3s ease;
+}
+
+.button-seo-service:hover {
+  background: hsl(0, 94%, 32%);
+  color: white;
+}
+.gdlr-core-tab-item-title {
+    background-color: rgb(124, 122, 122) !important;
+    border-top-left-radius: 20% !important;
+    border-top-right-radius: 20% !important;
+    color: rgb(236, 204, 204);
+}
+
+.icon-ai-seo {
+  background: #eef6ff;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  justify-content: left;
+}
+.card-ai-seo {
+  background: #fff;
+  width: 380px;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card-ai-seo:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  background-color: #e9e2e2;
+  color: white !important;
+}
+.subtitle-ai-seo {
+  font-size: 20px;
+  font-weight: bold;
+  color: #475569;
+  margin: 2px 0 15px;
+}
+
+.description-ai-seo {
+  font-size: 14px;
+  color: #64748b;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
