@@ -491,3 +491,15 @@ footer .widget_nav_menu ul li a:hover {
 .gdlr-core-input-wrap.gdlr-core-full-width input:not([type="button"]):not([type="reset"]):not([type="submit"]):not([type="file"]):not([type="checkbox"]):not([type="radio"]), .gdlr-core-input-wrap.gdlr-core-full-width textarea {
     margin-bottom: 10px;
 }
+
+/* services pages */
+
+.services-card-1 {
+    border: 0.1rem solid #FEF4F1;
+    padding: 2rem 2rem 2rem;
+    border-radius: 1.6rem;
+    box-shadow: 0 .4rem 1.1rem #ECF7FF;
+    height: 100%;
+    /* position: relative; */
+    transition: 0.3s;
+}
