@@ -1,0 +1,63 @@
+/* ------------------ Small devices (≥576px) ------------------ */
+@media (min-width: 576px) {
+  .gdlr-core-column-sm-5   { width: 8.3333%;  float: left; }
+  .gdlr-core-column-sm-10  { width: 16.6667%; float: left; }
+  .gdlr-core-column-sm-15  { width: 25%;      float: left; }
+  .gdlr-core-column-sm-20  { width: 33.3333%; float: left; }
+  .gdlr-core-column-sm-25  { width: 41.6667%; float: left; }
+  .gdlr-core-column-sm-30  { width: 50%;      float: left; }
+  .gdlr-core-column-sm-35  { width: 58.3333%; float: left; }
+  .gdlr-core-column-sm-40  { width: 66.6667%; float: left; }
+  .gdlr-core-column-sm-45  { width: 75%;      float: left; }
+  .gdlr-core-column-sm-50  { width: 83.3333%; float: left; }
+  .gdlr-core-column-sm-55  { width: 91.6667%; float: left; }
+  .gdlr-core-column-sm-60  { width: 100%;     float: left; }
+}
+
+/* ------------------ Medium devices (≥768px) ------------------ */
+@media (min-width: 768px) {
+  .gdlr-core-column-md-5   { width: 8.3333%;  float: left; }
+  .gdlr-core-column-md-10  { width: 16.6667%; float: left; }
+  .gdlr-core-column-md-15  { width: 25%;      float: left; }
+  .gdlr-core-column-md-20  { width: 33.3333%; float: left; }
+  .gdlr-core-column-md-25  { width: 41.6667%; float: left; }
+  .gdlr-core-column-md-30  { width: 50%;      float: left; }
+  .gdlr-core-column-md-35  { width: 58.3333%; float: left; }
+  .gdlr-core-column-md-40  { width: 66.6667%; float: left; }
+  .gdlr-core-column-md-45  { width: 75%;      float: left; }
+  .gdlr-core-column-md-50  { width: 83.3333%; float: left; }
+  .gdlr-core-column-md-55  { width: 91.6667%; float: left; }
+  .gdlr-core-column-md-60  { width: 100%;     float: left; }
+}
+
+/* ------------------ Large devices (≥992px) ------------------ */
+@media (min-width: 992px) {
+  .gdlr-core-column-lg-5   { width: 8.3333%;  float: left; }
+  .gdlr-core-column-lg-10  { width: 16.6667%; float: left; }
+  .gdlr-core-column-lg-15  { width: 25%;      float: left; }
+  .gdlr-core-column-lg-20  { width: 33.3333%; float: left; }
+  .gdlr-core-column-lg-25  { width: 41.6667%; float: left; }
+  .gdlr-core-column-lg-30  { width: 50%;      float: left; }
+  .gdlr-core-column-lg-35  { width: 58.3333%; float: left; }
+  .gdlr-core-column-lg-40  { width: 66.6667%; float: left; }
+  .gdlr-core-column-lg-45  { width: 75%;      float: left; }
+  .gdlr-core-column-lg-50  { width: 83.3333%; float: left; }
+  .gdlr-core-column-lg-55  { width: 91.6667%; float: left; }
+  .gdlr-core-column-lg-60  { width: 100%;     float: left; }
+}
+
+/* ------------------ Extra large devices (≥1200px) ------------------ */
+@media (min-width: 1200px) {
+  .gdlr-core-column-xl-5   { width: 8.3333%;  float: left; }
+  .gdlr-core-column-xl-10  { width: 16.6667%; float: left; }
+  .gdlr-core-column-xl-15  { width: 25%;      float: left; }
+  .gdlr-core-column-xl-20  { width: 33.3333%; float: left; }
+  .gdlr-core-column-xl-25  { width: 41.6667%; float: left; }
+  .gdlr-core-column-xl-30  { width: 50%;      float: left; }
+  .gdlr-core-column-xl-35  { width: 58.3333%; float: left; }
+  .gdlr-core-column-xl-40  { width: 66.6667%; float: left; }
+  .gdlr-core-column-xl-45  { width: 75%;      float: left; }
+  .gdlr-core-column-xl-50  { width: 83.3333%; float: left; }
+  .gdlr-core-column-xl-55  { width: 91.6667%; float: left; }
+  .gdlr-core-column-xl-60  { width: 100%;     float: left; }
+}
