@@ -278,8 +278,8 @@ input[type="button"]:focus, input[type="submit"]:focus, input[type="reset"]:focu
     border-left-width: 1px; border-left-style: solid;  }
 .seocrawler-navigation .sf-menu > .seocrawler-mega-menu .sf-mega-section:first-child{ border-left: none; }
 .seocrawler-navigation .sf-menu > .seocrawler-mega-menu .sf-mega-section-inner{ padding: 20px 15px; }
-.seocrawler-navigation .sf-menu > .seocrawler-mega-menu .sf-mega-section-inner > a{ font-size: 15px; display: block; 
-	margin-bottom: 12px; text-transform: uppercase; letter-spacing: 1px; font-weight: bold; padding: 0px 12px; }
+.seocrawler-navigation .sf-menu > .seocrawler-mega-menu .sf-mega-section-inner > a{ font-size: 14px; display: block; 
+	margin-bottom: 12px; letter-spacing: 1px; font-weight: bold; padding: 0px 12px; }
 .seocrawler-navigation .sf-menu > .seocrawler-mega-menu .sf-mega-section-inner > a:hover{ background: transparent; }
 .seocrawler-navigation .sf-menu > .seocrawler-mega-menu .sf-mega-section-inner .sub-menu a{ font-size: 14px; padding: 5px 12px; display: block; }
 .seocrawler-navigation .sf-menu > .seocrawler-mega-menu .seocrawler-mega-menu-section-content{ padding: 0px 12px;
