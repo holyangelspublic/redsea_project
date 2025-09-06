@@ -1250,7 +1250,7 @@ html.mm-pagedim-black #mm-blocker{background:#000}
 
 /* custom */
 ul.mm-listview li{ margin: 0px 25px; border-bottom-width: 1px; border-bottom-style: solid; }
-ul.mm-listview li a, ul.mm-listview li span.seocrawler-mm-menu-blank{ font-size: 12px; text-transform: uppercase; font-weight: 700; letter-spacing: 0.5px; padding: 17px 0px; }
+ul.mm-listview li a, ul.mm-listview li span.seocrawler-mm-menu-blank{ font-size: 14px; text-transform: uppercase; font-weight: 700; letter-spacing: 0.5px; padding: 17px 0px; }
 .mm-navbar .mm-btn{ line-height: 40px; font-size: 30px; display: block; text-align: left; left: -8px; padding: 0px; }
 .mm-navbar .mm-btn:before{ content: "\34"; font-family: elegantIcons; }
 .mm-navbar .mmenu-custom-close{ line-height: 40px; font-size: 30px; display: block; text-align: left; margin-left: -8px; cursor: pointer; }

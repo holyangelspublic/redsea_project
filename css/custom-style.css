@@ -1,3 +1,6 @@
+.text-white {
+  color: #FFF;
+}
 .services-new {
     padding-top: 4rem;
     padding-bottom: 4rem;
@@ -739,4 +742,24 @@ footer .widget_nav_menu ul li a:hover {
 }
 .card-hover.text-change .gdlr-core-pbf-column:hover img {
   filter: brightness(0) saturate(100%) invert(32%) sepia(100%) saturate(1258%) hue-rotate(349deg) brightness(92%) contrast(99%);
+}
+.leading-service-provide .landing-img {
+    height: 100%;
+}
+.leading-service-provide .landing-img img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.lazyloaded {
+    opacity: 1;
+    transition: opacity 400ms;
+    transition-delay: 0ms;
+}
+.hire-developer .leading-text {
+    height: 100%;
+}
+.leading-service-provide .leading-text {
+    padding: 39px 42px;
+    background: #253a58;
 }
