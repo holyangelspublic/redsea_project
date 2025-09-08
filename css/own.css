@@ -72,7 +72,10 @@
     border-top-right-radius: 20% !important;
     color: rgb(236, 204, 204);
 }
-
+.gdlr-core-tab-item-title.gdlr-core-active {
+  background-color: #EA4517 !important;
+  color: #FFF;
+}
 .icon-ai-seo {
   background: #eef6ff;
   width: 70px;

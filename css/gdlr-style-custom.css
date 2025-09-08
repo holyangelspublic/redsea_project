@@ -110,8 +110,8 @@ body.single-post .seocrawler-sidebar-style-none, body.blog .seocrawler-sidebar-s
 .seocrawler-top-bar{ color: #FFF; } 
 .seocrawler-body .seocrawler-top-bar a{ color: #ffffff; } 
 .seocrawler-body .seocrawler-top-bar a:hover{ color: #ffffff; } 
-.seocrawler-top-bar .seocrawler-top-bar-left-social a{ color: #ea4517; } 
-.seocrawler-top-bar .seocrawler-top-bar-left-social a:hover{ color: #000000; } 
+.seocrawler-top-bar .seocrawler-top-bar-left-social a{ color: #FFF; } 
+.seocrawler-top-bar .seocrawler-top-bar-left-social a:hover{ color: #EA4517; } 
 .seocrawler-header-background, .seocrawler-sticky-menu-placeholder, .seocrawler-header-style-boxed.seocrawler-fixed-navigation{ background-color: #FFF; } 
 .seocrawler-header-wrap.seocrawler-header-style-plain{ border-color: #e8e8e8; background: #FFF; } 
 .seocrawler-navigation-background{ background-color: #f4f4f4; } 
