@@ -769,4 +769,7 @@ footer .widget_nav_menu ul li a:hover {
     padding: 39px 42px;
     background: #253a58;
 }
-
+/* footer CSS */
+.footer-right-column-border {
+  border-right: 1px solid #5a5a5a;
+}

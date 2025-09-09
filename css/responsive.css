@@ -1,0 +1,50 @@
+/* ------------------------------
+   Max-width breakpoints (mobile-first)
+------------------------------- */
+
+
+@media (max-width: 1200px) {
+
+}
+
+
+@media (max-width: 991px) {
+  .project-container { grid-template-columns: repeat(2, 1fr); }
+}
+
+
+@media (max-width: 767px) {
+.item-card .text { top: 50px; }
+.item-card .button { bottom: 20%;} 
+.item-card img { opacity: 0.4;}
+.client_thumb span { width: 30.3%; padding: 5px 5px; }
+.footer-right-column-border { border-right: none; border-bottom: 1px solid #5a5a5a !important; }
+}
+
+
+@media (max-width: 576px) {
+
+.seocrawler-body h1{ font-size: 36px; } 
+.seocrawler-body h2{ font-size: 28px; } 
+.seocrawler-body h3{ font-size: 24px; } 
+.seocrawler-body h4{ font-size: 20px; } 
+.seocrawler-body h5{ font-size: 16px; } 
+.seocrawler-body h6{ font-size: 14px; } 
+.seocrawler-logo-inner{ max-width: 150px; margin-right: 0px; } 
+h2 br { display: none;}
+.gdlr-core-counter-item .gdlr-core-counter-item-number { font-size: 40px; }
+.counter-grid { gap: 20px 20px; }
+.bannerArea .container { padding: 0 15px; }
+.project-container { grid-template-columns: repeat(1, 1fr); padding: 0 5px; }
+}
+/* ------------------------------
+   Min-width breakpoints (desktop-first)
+------------------------------- */
+
+
+
+@media (min-width: 577px) {  }
+
+@media (min-width: 768px) {  }
+@media (min-width: 992px) {  }
+@media (min-width: 1200px) {  }

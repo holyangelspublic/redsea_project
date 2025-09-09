@@ -1,6 +1,6 @@
 .seocrawler-body h1, .seocrawler-body h2, .seocrawler-body h3, .seocrawler-body h4, .seocrawler-body h5, .seocrawler-body h6{ margin-top: 0px; margin-bottom: 15px; line-height: 1.2; font-weight: 500; }
-#poststuff .gdlr-core-page-builder-body h2{ padding: 0px; margin-bottom: 20px; line-height: 1.2; font-weight: 700; }
-#poststuff .gdlr-core-page-builder-body h1{ padding: 0px; font-weight: 700; }
+#poststuff .gdlr-core-page-builder-body h2{ padding: 0px; margin-bottom: 20px; line-height: 1.2; font-weight: 500; }
+#poststuff .gdlr-core-page-builder-body h1{ padding: 0px; font-weight: 500; }
 
 .gdlr-core-blog-info-wrapper .gdlr-core-head{ vertical-align: baseline; line-height: inherit; }
 .gdlr-core-block-item-title-wrap.gdlr-core-left-align .gdlr-core-block-item-title-inner{ margin-bottom: 15px; }
@@ -55,11 +55,11 @@ body.seocrawler-boxed .seocrawler-body-wrapper{ overflow: hidden; border-radius:
 .seocrawler-header-style-bar .seocrawler-logo-right-text{ padding-top: 30px; } 
 .seocrawler-logo{ padding-top: 15px; } 
 .seocrawler-logo{ padding-bottom: 15px; } 
-.seocrawler-logo-inner{ max-width: 212px; } 
+.seocrawler-logo-inner{ max-width: 200px; } 
 .seocrawler-navigation{ padding-top: 32px; }.seocrawler-navigation-top{ top: 54px; } 
 .seocrawler-navigation .sf-menu > li > a{ padding-bottom: 25px; } 
 .seocrawler-navigation .seocrawler-main-menu{ padding-right: 0px; } 
-.seocrawler-fixed-navigation.seocrawler-style-slide .seocrawler-logo-inner img{ max-height: none !important; }.seocrawler-animate-fixed-navigation.seocrawler-header-style-plain .seocrawler-logo-inner, .seocrawler-animate-fixed-navigation.seocrawler-header-style-boxed .seocrawler-logo-inner{ max-width: 150px; } 
+.seocrawler-fixed-navigation.seocrawler-style-slide .seocrawler-logo-inner img{ max-height: none !important; }.seocrawler-animate-fixed-navigation.seocrawler-header-style-plain .seocrawler-logo-inner, .seocrawler-animate-fixed-navigation.seocrawler-header-style-boxed .seocrawler-logo-inner{ max-width: 180px; } 
 .seocrawler-animate-fixed-navigation.seocrawler-header-style-plain .seocrawler-logo, .seocrawler-animate-fixed-navigation.seocrawler-header-style-boxed .seocrawler-logo{ padding-top: 23px; } 
 .seocrawler-animate-fixed-navigation.seocrawler-header-style-plain .seocrawler-logo, .seocrawler-animate-fixed-navigation.seocrawler-header-style-boxed .seocrawler-logo{ padding-bottom: 20px; } 
 .seocrawler-animate-fixed-navigation.seocrawler-header-style-plain .seocrawler-navigation, .seocrawler-animate-fixed-navigation.seocrawler-header-style-boxed .seocrawler-navigation{ padding-top: 27px; }.seocrawler-animate-fixed-navigation.seocrawler-header-style-plain .seocrawler-navigation-top, .seocrawler-animate-fixed-navigation.seocrawler-header-style-boxed .seocrawler-navigation-top{ top: 27px; } 
@@ -87,7 +87,7 @@ body.single-post .seocrawler-sidebar-style-none, body.blog .seocrawler-sidebar-s
 .seocrawler-copyright-container{ letter-spacing: 0px; } 
 .seocrawler-copyright-container{ text-transform: none; } 
 .seocrawler-body h1, .seocrawler-body h2, .seocrawler-body h3, .seocrawler-body h4, .seocrawler-body h5, .seocrawler-body h6, .seocrawler-body .seocrawler-title-font,.seocrawler-body .gdlr-core-title-font{ font-family: "Poppins", sans-serif; }.woocommerce-breadcrumb, .woocommerce span.onsale, .single-product.woocommerce div.product p.price .woocommerce-Price-amount, .single-product.woocommerce #review_form #respond label{ font-family: "Poppins", sans-serif; } 
-.seocrawler-navigation .sf-menu > li > a, .seocrawler-navigation .sf-vertical > li > a, .seocrawler-navigation-font{ font-family: "Nunito", sans-serif; } 
+.seocrawler-navigation .sf-menu > li > a, .seocrawler-navigation .sf-vertical > li > a, .seocrawler-navigation-font{ font-family: "Poppins", sans-serif; } 
 .seocrawler-body, .seocrawler-body .gdlr-core-content-font, .seocrawler-body input, .seocrawler-body textarea, .seocrawler-body button, .seocrawler-body select, .seocrawler-body .seocrawler-content-font, .gdlr-core-audio .mejs-container *{ font-family: "Poppins", sans-serif; } 
 .seocrawler-body .gdlr-core-info-font, .seocrawler-body .seocrawler-info-font{ font-family: "Poppins", sans-serif; } 
 .seocrawler-body .gdlr-core-blog-info-font, .seocrawler-body .seocrawler-blog-info-font{ font-family: "Poppins", sans-serif; } 
@@ -100,7 +100,7 @@ body.single-post .seocrawler-sidebar-style-none, body.blog .seocrawler-sidebar-s
 .seocrawler-body h5{ font-size: 18px; } 
 .seocrawler-body h6{ font-size: 16px; } 
 .seocrawler-navigation .sf-menu > li > a, .seocrawler-navigation .sf-vertical > li > a{ font-size: 14px; } 
-.seocrawler-navigation .sf-menu > li > a, .seocrawler-navigation .sf-vertical > li > a{ font-weight: 700; } 
+.seocrawler-navigation .sf-menu > li > a, .seocrawler-navigation .sf-vertical > li > a{ font-weight: 400; } 
 .seocrawler-navigation .sf-menu > li > a, .seocrawler-navigation .sf-vertical > li > a{ text-transform: uppercase; } 
 .seocrawler-body{ font-size: 16px; } 
 .seocrawler-body, .seocrawler-body p, .seocrawler-line-height, .gdlr-core-line-height{ line-height: 1.7; } 
