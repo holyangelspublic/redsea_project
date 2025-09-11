@@ -129,3 +129,7 @@
 .Social-step{
 color: red !important;
 }
+.aservice{
+  border: 1px solid rgb(190, 185, 185);
+  margin: 0 8px;
+}
