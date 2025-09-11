@@ -715,3 +715,85 @@ footer .widget_nav_menu ul li a:hover {
 .sidebar-icon .linkedin:hover {
   background-color: #0976B4;
 }
+
+/* free anayalis form */
+
+    .form-container {
+      max-width: 1120px;
+      margin: 0px auto;
+    }
+    .form-outer {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      column-gap: 20px;
+    }
+    
+    .form-group {
+      margin-bottom: 20px;
+    }
+    .form-group.full-width {
+        grid-column: 1 / -1;
+    }
+    .form-group input,
+    .form-group textarea {
+      width: 100%;
+      padding: 12px 15px;
+      border: 1px solid #ebebeb;
+      border-radius: 0px;
+      font-size: 16px;
+      box-sizing: border-box;
+    }
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border: 1px solid #EA4517;
+    }
+    .form-group textarea {
+      resize: vertical;
+      min-height: 100px;
+    }
+
+    .radio-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    .radio-group label {
+      flex: 1 1 200px;
+      border: 1px solid #EA4517;
+      border-radius: 6px;
+      padding: 12px;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .radio-group input[type="radio"] {
+      display: none;
+    }
+
+    .radio-group input[type="radio"]:checked + label {
+      background-color: #EA4517;
+      color: #FFF;
+      font-weight: 400;
+    }
+
+    .submit-btn {
+      display: block;
+      /* width: 100%; */
+      padding: 15px;
+      background-color: #EA4517;
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+      margin: 0 auto;
+    }
+    @media (max-width: 600px) {
+      .radio-group {
+        flex-direction: column;
+      }
+    }
