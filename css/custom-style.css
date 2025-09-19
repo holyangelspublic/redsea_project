@@ -7,6 +7,15 @@
 .text-white {
   color: #FFF;
 }
+.d-flex {
+  display: flex;
+}
+.justify-content-center {
+  justify-content: center;
+} 
+.align-center {
+  align-items: center;
+}
 .services-new {
     padding-top: 4rem;
     padding-bottom: 4rem;
@@ -797,3 +806,18 @@ footer .widget_nav_menu ul li a:hover {
         flex-direction: column;
       }
     }
+  ul.square-tick li {
+    display: flex;
+    color: #fff;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    padding-bottom: 8px;
+}
+ul.square-tick li img {
+    max-width: 20px;
+    max-height: 20px;
+    margin-top: 8px;
+    margin-right: 1.2rem;
+}
